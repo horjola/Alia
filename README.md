@@ -1,2 +1,0 @@
-# Alia
-Stock market knowledge
